@@ -1,5 +1,5 @@
 from gtts import gTTS
-text = "Hello everyone this is L!"
+text = "yokoso!"
 
 tts = gTTS(text=text,lang="en")
 tts.save("audio.mp3")

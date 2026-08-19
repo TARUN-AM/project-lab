@@ -10,7 +10,7 @@ while True:
     print("\nAvailable Products:")
 
     for i in range(len(products)):
-        print(i + 1, "-_", products[i], "- Rs", prices[i])
+        print(i + 1, "-", products[i], "- Rs", prices[i])
 
     print("5. Exit")
 

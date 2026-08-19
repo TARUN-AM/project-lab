@@ -2,7 +2,7 @@ import time
 
 print("SPEED TYPING TEST...")
 
-sentance = "abcdefghijklmnopqrstuvwxyz"
+sentance = "the one who will install the kali linux is the one who has intrest in cybersecurity"
 print("\n Type this Exactly...")
 print(sentance)
 
