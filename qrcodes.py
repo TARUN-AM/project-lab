@@ -6,4 +6,4 @@ img = qrcode.make(data)
 img.save("img.png")
 img.show()
 
-print("QRCODE GENERATED...") 
+print("QRCODE GENERATED...")
